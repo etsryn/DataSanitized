@@ -1,6 +1,4 @@
 # DataSanitized
-
-## Overview
 **DataSanitized** is a meticulously curated repository of high-fidelity, pre-processed datasets that have undergone rigorous cleansing to eliminate inconsistencies, anomalies, redundancies, and missing values. This repository serves as a valuable resource for data practitioners by providing structured, analysis-ready datasets optimized for machine learning, deep learning, and advanced data-driven research applications. The repository ensures seamless integration into data engineering pipelines, facilitating efficient data preprocessing workflows.
 
 ## Purpose
